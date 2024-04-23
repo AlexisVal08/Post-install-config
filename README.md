@@ -51,6 +51,7 @@ This tutorial outlines post install configuration of the open-source help desk t
    - Admin Panel -> Agents -> Teams
    - Level I Support
    - Level II Support
+   - 
 <img width="428" alt="Step 3A" src="">
 <img width="428" alt="Step 3B" src="">
 <img width="428" alt="Step 3C" src="">
